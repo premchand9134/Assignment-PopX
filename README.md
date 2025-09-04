@@ -88,10 +88,6 @@ npm run build
 
 ---
 
-## 📄 License  
 
-This project is licensed under the **MIT License** – free to use, modify, and distribute.  
-
----
 
 ✨ Made with ❤️ using React, Vite & TailwindCSS.  
