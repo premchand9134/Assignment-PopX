@@ -67,21 +67,7 @@ npm run build
 
 ---
 
-## 📸 Screenshots  
 
-### 🔐 Login Page  
-![Login](https://via.placeholder.com/800x400?text=Login+Page)  
-
-### 📝 Register Page  
-![Register](https://via.placeholder.com/800x400?text=Register+Page)  
-
-### 🎉 Welcome Page  
-![Welcome](https://via.placeholder.com/800x400?text=Welcome+Page)  
-
-### ⚙️ Account Settings  
-![Account](https://via.placeholder.com/800x400?text=Account+Settings)  
-
----
 
 ## 📌 Best Practices  
 
